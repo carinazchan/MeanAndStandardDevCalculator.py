@@ -8,9 +8,9 @@ Errors:
 N/A
 
 References:
-https://www.kite.com/python/answers/how-to-check-if-a-number-is-an-integer-in-python
-https://www.calculatorsoup.com/calculators/statistics/variance-calculator.php
-Alice Chan (mom)
+- https://www.kite.com/python/answers/how-to-check-if-a-number-is-an-integer-in-python
+- https://www.calculatorsoup.com/calculators/statistics/variance-calculator.php
+- Alice Chan (mom)
 
 Instructions:
 - python3 MeanAndStandardDevCalculator.py
